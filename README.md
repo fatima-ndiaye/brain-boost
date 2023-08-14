@@ -84,7 +84,8 @@ To use the BrainBoost app, follow these steps:
 
 ### Fatimata Ndiaye
 
-BrainBoost was created by [Your Name]. Connect with me on GitHub for any questions or feedback.
+BrainBoost was created by Fatimata Ndiaye.
+Connect with me on GitHub for any questions or feedback.
 
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
 [![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
