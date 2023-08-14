@@ -1,0 +1,8 @@
+<svg viewBox="0 0 150 100" xmlns="http://www.w3.org/2000/svg"  transform="rotate(180 50 50)">
+    <path d="M84.5,63Q71,76,56,81.5Q41,87,30,76Q19,65,19.5,50.5Q20,36,29.5,19Q39,2,58.5,8.5Q78,15,88,32.5Q98,50,84.5,63Z" 
+        stroke="none" fill="#a6c8e6">
+    </path>
+    <path d="M84.5,63Q71,76,56,81.5Q41,87,30,76Q19,65,19.5,50.5Q20,36,29.5,19Q39,2,58.5,8.5Q78,15,88,32.5Q98,50,84.5,63Z" 
+        transform="translate(-4.18 3.89)" stroke="#6e8498" strokeWidth="1" fill="none">
+    </path>
+</svg>
