@@ -32,7 +32,7 @@ BrainBoost is a web application built using React, React Router, HTML, and CSS. 
 
 ### Demo
 
-![Demo](demo.gif)
+![Demo](src/demo.gif)
 
 ### Links
 
